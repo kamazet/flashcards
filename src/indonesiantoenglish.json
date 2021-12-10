@@ -1,0 +1,17 @@
+{
+    "name": "Indonesian to English",
+    "cards": {
+      "0": {
+        "front": "warna",
+        "back": "colors"
+      },
+      "1": {
+        "front": "bunga",
+        "back": "flowers"
+      },
+      "2": {
+        "front": "hati",
+        "back": "heart"
+      }
+    }
+  }

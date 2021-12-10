@@ -1,0 +1,17 @@
+{
+    "name": "Spanish to English",
+    "cards": {
+      "0": {
+        "front": "colores",
+        "back": "colors"
+      },
+      "1": {
+        "front": "flores",
+        "back": "flowers"
+      },
+      "2": {
+        "front": "corazon",
+        "back": "heart"
+      }
+    }
+  }
